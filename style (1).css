@@ -1,0 +1,64 @@
+#border1 {
+    border: 3px solid black;
+
+}
+
+#border2{
+    border-width: 3px;
+    border-style: dashed;
+    border-color: red;
+}
+
+#padding {
+    border: 3px solid black;
+    height: 200px;
+    width: 200px;
+
+    /* 
+    padding overall 
+    padding: 20px; */
+
+    /* 
+    padding y-axis, x-axis
+    padding: 20px 100px; */
+
+    /* 
+    padding top, right, bottom ,left 
+    padding: 50px 100px 150px 200px; */
+
+    /* padding manual */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+#margin { 
+    border: 3px dotted red;
+    height: 200px;
+    width: 200px;
+
+    /* 
+    margin overall
+    margin: 20px; */
+
+    /* 
+    margin x-axis, y-axis
+    margin: 40px 100px; */
+
+    /* 
+    margin top, right, bottom ,left 
+    margin: 20px 60px 40px 80px; */
+    
+    /* margin manual */
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+
+
+
+
+
+}
